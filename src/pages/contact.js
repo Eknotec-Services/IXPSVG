@@ -3,7 +3,7 @@ import * as React from "react"
 //Components
 import Navigation from "../components/navigation"
 import Footer from "../components/footer"
-import Jumbo from "../components/jumbo"
+// import Jumbo from "../components/jumbo"
 
 // styles
 const pageStyles = {
@@ -17,7 +17,7 @@ const ContactPage = () => {
   return (
     <>
       <Navigation/>
-      <Jumbo><h1 className="container page-title">Contact Us</h1></Jumbo>
+      {/* <Jumbo><h1 className="container page-title">Contact Us</h1></Jumbo> */}
       <main style={pageStyles} className="container">
         <title>Contact Page</title>
         <p>
