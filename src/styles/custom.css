@@ -1,0 +1,107 @@
+nav{
+   background-color: white !important;
+   color: black !important; 
+   height: 80px !important;
+   line-height: 80px !important;
+}
+
+.brand-logo img{
+    width: 205px  !important;
+    overflow: hidden;
+}
+
+nav ul a{
+    color: black !important;
+    font-size: 1.2rem !important;
+}
+
+.btn, .btn-small, .btn-large{
+   background-color:#0840b2 !important;
+   color: white !important;
+}
+
+.jumbotron{
+    position: relative;
+    padding: 5em;
+    height: 800px;
+    background-image: url("../images/17973908.jpg");
+}
+
+.jumbotron-button{
+    margin-top: 28px;
+    margin-right: 47px;
+}
+
+.transparent{
+    color: black !important;
+}
+
+.jumbotron-message{
+    text-align: center;
+}
+
+.page-footer{
+    background-color: #011d55 !important;
+    padding-bottom: 10px !important;
+}
+
+.footer .row .col{
+    text-align: center;
+    font-size: 30px;
+}
+
+.footer .row .col i{
+    margin: 10px;
+}
+
+.copyright p{
+    text-align: center;
+}
+
+/** OTHER PAGES STYLES **/
+
+.about-pages{
+    background-image: url("../images/man-analysing-binary-code-virtual-screen.jpg");
+    height: 220px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.contact-pages{
+    background-image: url("../images/young-coworkers-working-computer-office.jpg");
+    height: 220px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.page-title{
+    color: white;
+    padding: 1em 0;
+}
+
+.team-header{
+    text-align: center;
+}
+
+/**resource page**/
+
+.resources{
+    background-color: #efefef;
+    padding: 4em;
+}
+
+.resources .row .col{
+    background: white;
+    padding: 2em;
+    box-shadow: 1px 3px 4px gray;
+    color: black;
+    margin: 0 7px;
+    width: 30% !important;
+    height: 422px;
+}
+
+.resources .row .col h4{
+    font-size: 28px;
+}
